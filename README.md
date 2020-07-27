@@ -3,7 +3,9 @@ Side Project in developing a data product for Fantasy NFL users in selecting pla
 Authors: 
 - Angelo Sisante
 - Conor Hargrove
-Date: 07-25-2020
+
+Date: 
+- 07-25-2020
 
 ## The Problem
 Incomplete information and behavioral bias prevents a Fantasy sports user from maximizing their Fantasy team’s aggregate production utility as a function of each individual pick a user makes during a draft. 
